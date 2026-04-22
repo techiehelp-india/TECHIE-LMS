@@ -1,3 +1,5 @@
+![LMS Screenshot](lms.png)
+
 # 🚀 Techie LMS Open Source Contribution Guide
 
 Welcome to the **Techie LMS** repository! This is a modern, modular, "Anti-Gravity" style Masterclass and Learning Management platform. 
